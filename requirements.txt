@@ -1,0 +1,11 @@
+transformers>=4.34
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+newsapi-python
+streamlit
+plotly
+gtts
+speechrecognition
+python-dotenv
